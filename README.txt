@@ -14,6 +14,8 @@ In addition, I also rewrite a little code such as:
 USceneComponent::AttachTo() -> USceneComponent::AttachToComponent()
 because the first was deprecated after UE4.12
 
+I will update all of the code in these days.
+
 Other question please:
 paworks0831@gmail.com
 
